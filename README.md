@@ -1,6 +1,6 @@
 ## Hi, I'm Selene 👋
 
-**M.S. Data Science & Computational Linguistics (UBC, 2026)· B.Eng Mechatronics **
+**M.S. Data Science & Computational Linguistics (UBC, 2026)· B.Eng Mechatronics**
 
 I build LLM applications end to end, from data pipelines through prompt
 design and evaluation to production deployment. My background is unusual:
